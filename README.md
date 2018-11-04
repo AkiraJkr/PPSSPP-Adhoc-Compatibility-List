@@ -18,18 +18,17 @@
 <br>(NCd) = Net Code issues (Distance only)
 
 
-<br>{1} -- [ PERFECT COMPATIBILITY ] --
+<br><b>{1} -- [ PERFECT COMPATIBILITY ] --</b>
 <br>Monster Hunter Freedom/Portable
 <br>Monster Hunter Freedom 2/Portable 2nd
 <br>Monster Hunter Freedom Unite/Portable 2nd G
 <br>Monster Hunter Portable 3rd/HD Ver
 
-
-<br>{2} -- [ PLAYABLE] --
+<br><b>{2} -- [ PLAYABLE] --</b>
 <br>Dissidia 012 Final Fantasy (NCd)
 <br>Metal Gear Solid - Peace Walker (PF)
 <br>Power Stone Collection (HM)(CN)
 <br>Tekken 6 (NC)
 
-<br>{2} -- [ NOT WORKING ] --
+<br><b>{3} -- [ NOT WORKING ] --</b>
 <br>Kingdom Hearts Birth By Sleep/Final Mix (Command Board only?)
