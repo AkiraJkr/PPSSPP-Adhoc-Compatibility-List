@@ -15,7 +15,7 @@
 <br>(HM) = Hamachi issues
 <br>(OV) = OpenVPN issues
 <br>(NC) = Net Code issues
-<br>(NCd) = Net Code issues (Distance only)
+<br>(DI) = Distance issues
 
 
 <br><b>{1} -- [ PERFECT COMPATIBILITY ] --</b>
@@ -25,7 +25,7 @@
 <br>Monster Hunter Portable 3rd/HD Ver
 
 <br><b>{2} -- [ PLAYABLE] --</b>
-<br>Dissidia 012 Final Fantasy (NCd)
+<br>Dissidia 012 Final Fantasy (DI)
 <br>Metal Gear Solid - Peace Walker (PF)
 <br>Power Stone Collection (HM)(CN)
 <br>Tekken 6 (NC)
