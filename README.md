@@ -23,6 +23,7 @@
 <br>Monster Hunter Freedom 2/Portable 2nd
 <br>Monster Hunter Freedom Unite/Portable 2nd G
 <br>Monster Hunter Portable 3rd/HD Ver
+<br>God Eater/Burst
 
 <br><b>{2} -- [ PLAYABLE] --</b>
 <br>Dissidia 012 Final Fantasy (DI)
