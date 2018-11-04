@@ -1,11 +1,11 @@
 <br>Here is the ever-expanding list of known multiplayer-compatible games on PPSSPP.
-<br>We are always looking to add more information here! Send a PR or tell AkiraJkr on the PPSSPP's Discord about your findings!
+<br>We are always looking to add more information here! Send a PR, issue or tell AkiraJkr on the PPSSPP's Discord about your findings!
 
 <br>If you are looking for a specific game, it's as easy as searching it's name!
 
 <br>-- [ Table of Contents ] -- \\Use Ctrl+F to search\\
 <br>{a} - Legend
-<br>{1} - Perfect Compatiblity
+<br>{1} - Perfect Compatibility
 <br>{2} - Playable
 <br>{3} - Not Working
 
