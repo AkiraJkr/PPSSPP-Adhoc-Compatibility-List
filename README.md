@@ -13,7 +13,6 @@
 <br>{4} - Not Working
 
 <br>{a} -- [ LEGEND ] --
-<br>(CN) = Coldbird.Net issues
 <br>(PF) = Port Forward issues
 <br>(HM) = Hamachi issues
 <br>(OV) = OpenVPN issues
@@ -32,7 +31,7 @@
 <br><b>{2} -- [ PLAYABLE ] --</b>
 <br>Dissidia 012 Final Fantasy (NC)(DI)
 <br>Metal Gear Solid - Peace Walker (PF)
-<br>Power Stone Collection (HM)(CN)
+<br>Power Stone Collection (HM)
 <br>Tekken 6 (NC)
 
 <br><b>{3} -- [ NEEDS MORE TESTING ] --</b>
