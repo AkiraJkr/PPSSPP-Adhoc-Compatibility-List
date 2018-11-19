@@ -21,18 +21,21 @@
 
 
 <br><b>{1} -- [ PERFECT COMPATIBILITY ] --</b>
+<br>Ace Combat: Joint Assault 
 <br>God Eater/Burst
 <br>Initial D: Street Stage
 <br>Monster Hunter Freedom/Portable
 <br>Monster Hunter Freedom 2/Portable 2nd
 <br>Monster Hunter Freedom Unite/Portable 2nd G
 <br>Monster Hunter Portable 3rd/HD Ver
+<br>Virtua Tennis 3
 
 <br><b>{2} -- [ PLAYABLE ] --</b>
 <br>Dissidia 012 Final Fantasy (NC)(DI)
 <br>Metal Gear Solid - Peace Walker (PF)
 <br>Power Stone Collection (HM)
 <br>Tekken 6 (NC)
+<br>Virtua Tennis: World Tour(DI)
 
 <br><b>{3} -- [ NEEDS MORE TESTING ] --</b>
 <br>Armored Core Silent Line (Works on Hamachi, seems choppy? Tested with high ping, low ping might be fine)
