@@ -21,9 +21,11 @@
 
 
 <br><b>{1} -- [ PERFECT COMPATIBILITY ] --</b>
-<br>Ace Combat: Joint Assault 
+<br>Ace Combat: Joint Assault
+<br>Ace Combat X: Skies of Deception
 <br>God Eater/Burst
 <br>Initial D: Street Stage
+<br>Lord of Arcana
 <br>Monster Hunter Freedom/Portable
 <br>Monster Hunter Freedom 2/Portable 2nd
 <br>Monster Hunter Freedom Unite/Portable 2nd G
